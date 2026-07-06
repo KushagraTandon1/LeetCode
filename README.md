@@ -11,4 +11,8 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/KushagraTandon1/LeetCode/tree/master/1288-remove-covered-intervals) |
+## Database
+|  |
+| ------- |
+| [0607-sales-person](https://github.com/KushagraTandon1/LeetCode/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
