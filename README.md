@@ -16,6 +16,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | ------- |
 | [0184-department-highest-salary](https://github.com/KushagraTandon1/LeetCode/tree/master/0184-department-highest-salary) |
 | [0607-sales-person](https://github.com/KushagraTandon1/LeetCode/tree/master/0607-sales-person) |
+| [0608-tree-node](https://github.com/KushagraTandon1/LeetCode/tree/master/0608-tree-node) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/KushagraTandon1/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 ## Math
 |  |
