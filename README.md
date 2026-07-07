@@ -16,4 +16,8 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | ------- |
 | [0184-department-highest-salary](https://github.com/KushagraTandon1/LeetCode/tree/master/0184-department-highest-salary) |
 | [0607-sales-person](https://github.com/KushagraTandon1/LeetCode/tree/master/0607-sales-person) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KushagraTandon1/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
