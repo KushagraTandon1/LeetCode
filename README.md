@@ -18,6 +18,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | [0607-sales-person](https://github.com/KushagraTandon1/LeetCode/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/KushagraTandon1/LeetCode/tree/master/0608-tree-node) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/KushagraTandon1/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1084-sales-analysis-iii](https://github.com/KushagraTandon1/LeetCode/tree/master/1084-sales-analysis-iii) |
 ## Math
 |  |
 | ------- |
