@@ -23,4 +23,16 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KushagraTandon1/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/KushagraTandon1/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/KushagraTandon1/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+## Graph Theory
+|  |
+| ------- |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/KushagraTandon1/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 <!---LeetCode Topics End-->
