@@ -13,6 +13,8 @@ class Solution {
 
     }
     public int minReorder(int n, int[][] connections) {
+        /*Every positive edge means that Node can be visited from 0 but reverse direction isn't possible therefore we need to reverse that direction while a negative edge means that I dont have edge to that node and A edge is created in opposite direction, which eventually means A Path from that node to Node 0 exist */
+        
         ArrayList<ArrayList<Integer>> adjacencyList = new ArrayList<>();
         boolean [] visited = new boolean[n];
         Arrays.fill(visited, false);
