@@ -6,6 +6,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 ## Array
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/KushagraTandon1/LeetCode/tree/master/0399-evaluate-division) |
 | [1288-remove-covered-intervals](https://github.com/KushagraTandon1/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KushagraTandon1/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
@@ -28,14 +29,17 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 ## Depth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/KushagraTandon1/LeetCode/tree/master/0399-evaluate-division) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/KushagraTandon1/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/KushagraTandon1/LeetCode/tree/master/0399-evaluate-division) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/KushagraTandon1/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/KushagraTandon1/LeetCode/tree/master/0399-evaluate-division) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/KushagraTandon1/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KushagraTandon1/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
@@ -49,5 +53,14 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/KushagraTandon1/LeetCode/tree/master/0399-evaluate-division) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KushagraTandon1/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## String
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/KushagraTandon1/LeetCode/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/KushagraTandon1/LeetCode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
