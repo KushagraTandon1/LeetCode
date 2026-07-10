@@ -23,6 +23,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | [1084-sales-analysis-iii](https://github.com/KushagraTandon1/LeetCode/tree/master/1084-sales-analysis-iii) |
 | [1407-top-travellers](https://github.com/KushagraTandon1/LeetCode/tree/master/1407-top-travellers) |
 | [3436-find-valid-emails](https://github.com/KushagraTandon1/LeetCode/tree/master/3436-find-valid-emails) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/KushagraTandon1/LeetCode/tree/master/3465-find-products-with-valid-serial-numbers) |
 ## Math
 |  |
 | ------- |
