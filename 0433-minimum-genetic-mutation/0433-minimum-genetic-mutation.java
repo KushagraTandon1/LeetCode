@@ -1,46 +1,45 @@
-class Pair{
-    String string; int minDepth;
-    Pair(String string, int minDepth){
-        this.string = string;
-        this.minDepth = minDepth;
+class State{
+    final String gene;
+    final int mutation;
+    State(String gene, int mutation){
+        this.gene = gene;
+        this.mutation = mutation;
     }
 }
+
 class Solution {
+    final char [] words = new char[] {'A', 'C', 'G','T'};
     public int minMutation(String startGene, String endGene, String[] bank) {
-        HashSet<String> isValid = new HashSet<>();
-        HashSet<String> isVisited = new HashSet<>();
-        Queue<Pair> queue = new LinkedList<>();
-        int minDepth = 0;
-        int bankSize = bank.length;
-
-        for(int i = 0; i < bankSize; i++) isValid.add(bank[i]);
-        if(!isValid.contains(endGene)) return -1;
-        queue.offer(new Pair(startGene, 0));
-        
-        while(!queue.isEmpty()){
-            Pair node = queue.poll();
-            String node_string = node.string;
-            int node_minDepth = node.minDepth;
-            if(node_string.equals(endGene)) return node_minDepth;
-
-            char [] stringArray = node_string.toCharArray();
-            for(int i = 0; i < node_string.length(); i++){
-                char original = stringArray[i];
-
-                for(char ch : new char[] {'A', 'C', 'G', 'T'}){
-                    stringArray[i] = ch;
-
-                    String mutatedString = new String(stringArray);
-                    if(!isVisited.contains(mutatedString)){
-                        if(isValid.contains(mutatedString)){
-                            queue.offer(new Pair(mutatedString, node_minDepth + 1));
-                            isVisited.add(mutatedString);
-                        }
-                    }
-                }
-                stringArray[i] = original;
-            }
+        Set<String> visited = new HashSet<>();
+        Set<String> valid = new HashSet<>();
+        Queue<State> queue = new ArrayDeque<>();
+        for(String str : bank){
+            valid.add(str);
         }
+        queue.offer(new State(startGene, 0));
+
+        while(!queue.isEmpty()){
+            State state = queue.poll();
+            String currentGene = state.gene;
+            int currentMutation = state.mutation;
+            visited.add(currentGene);
+            if(currentGene.equals(endGene)) return currentMutation;
+            char [] geneArray = currentGene.toCharArray();
+            for(int i = 0; i < 8; i++){
+                char original = geneArray[i];
+
+                for(char ch : words){
+                    geneArray[i] = ch;
+                    if(ch == original) continue;
+
+                    String newMutation = new String(geneArray);
+                    if(valid.contains(newMutation) && visited.add(newMutation)){
+                        queue.offer(new State(newMutation, currentMutation + 1));
+                    }   
+                }
+                geneArray[i] = original;
+            }
+        }   
         return -1;
     }
 }
