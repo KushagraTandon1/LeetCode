@@ -87,4 +87,8 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/KushagraTandon1/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/KushagraTandon1/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
