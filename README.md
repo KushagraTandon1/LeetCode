@@ -27,6 +27,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 ## Math
 |  |
 | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/KushagraTandon1/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KushagraTandon1/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Depth-First Search
 |  |
@@ -91,4 +92,8 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/KushagraTandon1/LeetCode/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/KushagraTandon1/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
