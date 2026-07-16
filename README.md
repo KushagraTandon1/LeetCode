@@ -9,6 +9,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | [0399-evaluate-division](https://github.com/KushagraTandon1/LeetCode/tree/master/0399-evaluate-division) |
 | [1288-remove-covered-intervals](https://github.com/KushagraTandon1/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KushagraTandon1/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3663-find-the-least-frequent-digit](https://github.com/KushagraTandon1/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KushagraTandon1/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -30,6 +31,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KushagraTandon1/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3663-find-the-least-frequent-digit](https://github.com/KushagraTandon1/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KushagraTandon1/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KushagraTandon1/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
@@ -56,6 +58,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/KushagraTandon1/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KushagraTandon1/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3663-find-the-least-frequent-digit](https://github.com/KushagraTandon1/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,4 +111,8 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KushagraTandon1/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Counting
+|  |
+| ------- |
+| [3663-find-the-least-frequent-digit](https://github.com/KushagraTandon1/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 <!---LeetCode Topics End-->
