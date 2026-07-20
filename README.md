@@ -41,6 +41,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | [0399-evaluate-division](https://github.com/KushagraTandon1/LeetCode/tree/master/0399-evaluate-division) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/KushagraTandon1/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/KushagraTandon1/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/KushagraTandon1/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | [0433-minimum-genetic-mutation](https://github.com/KushagraTandon1/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/KushagraTandon1/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/KushagraTandon1/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/KushagraTandon1/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Graph Theory
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/KushagraTandon1/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/KushagraTandon1/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KushagraTandon1/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/KushagraTandon1/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 ## Binary Search
@@ -91,6 +94,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/KushagraTandon1/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/KushagraTandon1/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Design
 |  |
 | ------- |
@@ -121,4 +125,8 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/KushagraTandon1/LeetCode/tree/master/1260-shift-2d-grid) |
+## Binary Tree
+|  |
+| ------- |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/KushagraTandon1/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 <!---LeetCode Topics End-->
