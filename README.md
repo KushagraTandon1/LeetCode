@@ -92,6 +92,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 ## Bit Manipulation
 |  |
 | ------- |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/KushagraTandon1/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/KushagraTandon1/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Tree
 |  |
