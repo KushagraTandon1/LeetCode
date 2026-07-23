@@ -2,11 +2,8 @@ class Solution {
     public List<List<String>> suggestedProducts(String[] products, String searchWord) {
 
         List<List<String>> suggestionWords = new ArrayList<>();
-
         Arrays.sort(products);
-
         int left = 0, right = products.length - 1;
-        int size = products.length;
 
         for(int i = 0; i < searchWord.length(); i++){
             char ch = searchWord.charAt(i);
@@ -19,7 +16,6 @@ class Solution {
                 right -= 1;
             }
             
-            int index = left;
             List<String> list = new ArrayList<>();
             for(int start = left; start < Math.min(left + 3, right + 1); start++){
                 list.add(products[start]);
