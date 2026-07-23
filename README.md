@@ -62,6 +62,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/KushagraTandon1/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/KushagraTandon1/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/KushagraTandon1/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KushagraTandon1/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -79,6 +80,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 ## String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/KushagraTandon1/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0399-evaluate-division](https://github.com/KushagraTandon1/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/KushagraTandon1/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 ## Shortest Path
@@ -102,6 +104,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/KushagraTandon1/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/KushagraTandon1/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Enumeration
 |  |
@@ -139,4 +142,8 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 |  |
 | ------- |
 | [2462-total-cost-to-hire-k-workers](https://github.com/KushagraTandon1/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/KushagraTandon1/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
