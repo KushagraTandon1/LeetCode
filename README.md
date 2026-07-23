@@ -8,6 +8,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | ------- |
 | [0399-evaluate-division](https://github.com/KushagraTandon1/LeetCode/tree/master/0399-evaluate-division) |
 | [1260-shift-2d-grid](https://github.com/KushagraTandon1/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1268-search-suggestions-system](https://github.com/KushagraTandon1/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/KushagraTandon1/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/KushagraTandon1/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KushagraTandon1/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -16,6 +17,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 ## Sorting
 |  |
 | ------- |
+| [1268-search-suggestions-system](https://github.com/KushagraTandon1/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/KushagraTandon1/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KushagraTandon1/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
@@ -70,6 +72,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 ## Binary Search
 |  |
 | ------- |
+| [1268-search-suggestions-system](https://github.com/KushagraTandon1/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/KushagraTandon1/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KushagraTandon1/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
@@ -83,6 +86,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | [0208-implement-trie-prefix-tree](https://github.com/KushagraTandon1/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0399-evaluate-division](https://github.com/KushagraTandon1/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/KushagraTandon1/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [1268-search-suggestions-system](https://github.com/KushagraTandon1/LeetCode/tree/master/1268-search-suggestions-system) |
 ## Shortest Path
 |  |
 | ------- |
@@ -141,9 +145,11 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1268-search-suggestions-system](https://github.com/KushagraTandon1/LeetCode/tree/master/1268-search-suggestions-system) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/KushagraTandon1/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Trie
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/KushagraTandon1/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [1268-search-suggestions-system](https://github.com/KushagraTandon1/LeetCode/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
