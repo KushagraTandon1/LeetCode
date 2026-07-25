@@ -35,6 +35,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | [1741-find-total-time-spent-by-each-employee](https://github.com/KushagraTandon1/LeetCode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/KushagraTandon1/LeetCode/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/KushagraTandon1/LeetCode/tree/master/1890-the-latest-login-in-2020) |
+| [1965-employees-with-missing-information](https://github.com/KushagraTandon1/LeetCode/tree/master/1965-employees-with-missing-information) |
 | [3436-find-valid-emails](https://github.com/KushagraTandon1/LeetCode/tree/master/3436-find-valid-emails) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/KushagraTandon1/LeetCode/tree/master/3465-find-products-with-valid-serial-numbers) |
 ## Math
