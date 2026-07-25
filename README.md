@@ -33,6 +33,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | [1587-bank-account-summary-ii](https://github.com/KushagraTandon1/LeetCode/tree/master/1587-bank-account-summary-ii) |
 | [1693-daily-leads-and-partners](https://github.com/KushagraTandon1/LeetCode/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/KushagraTandon1/LeetCode/tree/master/1741-find-total-time-spent-by-each-employee) |
+| [1873-calculate-special-bonus](https://github.com/KushagraTandon1/LeetCode/tree/master/1873-calculate-special-bonus) |
 | [3436-find-valid-emails](https://github.com/KushagraTandon1/LeetCode/tree/master/3436-find-valid-emails) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/KushagraTandon1/LeetCode/tree/master/3465-find-products-with-valid-serial-numbers) |
 ## Math
