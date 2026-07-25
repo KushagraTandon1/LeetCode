@@ -63,7 +63,7 @@ class WordDictionary {
             return false;
         }
 
-        if(node.get(ch) == null) return false;
+        if(!node.contains(ch)) return false;
         return helper(word, index + 1, node.get(ch));
 
     }
