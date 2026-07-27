@@ -6,6 +6,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 ## Array
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/KushagraTandon1/LeetCode/tree/master/0164-maximum-gap) |
 | [0399-evaluate-division](https://github.com/KushagraTandon1/LeetCode/tree/master/0399-evaluate-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KushagraTandon1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/KushagraTandon1/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -20,6 +21,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/KushagraTandon1/LeetCode/tree/master/0164-maximum-gap) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KushagraTandon1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1268-search-suggestions-system](https://github.com/KushagraTandon1/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/KushagraTandon1/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -178,4 +180,12 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/KushagraTandon1/LeetCode/tree/master/0099-recover-binary-search-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/KushagraTandon1/LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/KushagraTandon1/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
