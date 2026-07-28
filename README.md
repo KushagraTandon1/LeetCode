@@ -50,6 +50,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/KushagraTandon1/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KushagraTandon1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/KushagraTandon1/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KushagraTandon1/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -102,6 +103,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/KushagraTandon1/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0168-excel-sheet-column-title](https://github.com/KushagraTandon1/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/KushagraTandon1/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/KushagraTandon1/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/KushagraTandon1/LeetCode/tree/master/0399-evaluate-division) |
