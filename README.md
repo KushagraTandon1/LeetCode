@@ -101,6 +101,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/KushagraTandon1/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/KushagraTandon1/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/KushagraTandon1/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/KushagraTandon1/LeetCode/tree/master/0399-evaluate-division) |
@@ -145,6 +146,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/KushagraTandon1/LeetCode/tree/master/0165-compare-version-numbers) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/KushagraTandon1/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KushagraTandon1/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
