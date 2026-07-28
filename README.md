@@ -26,6 +26,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | [1268-search-suggestions-system](https://github.com/KushagraTandon1/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/KushagraTandon1/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KushagraTandon1/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/KushagraTandon1/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/KushagraTandon1/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KushagraTandon1/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
@@ -106,6 +107,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | [0433-minimum-genetic-mutation](https://github.com/KushagraTandon1/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [1268-search-suggestions-system](https://github.com/KushagraTandon1/LeetCode/tree/master/1268-search-suggestions-system) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/KushagraTandon1/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/KushagraTandon1/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -188,4 +190,8 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/KushagraTandon1/LeetCode/tree/master/0164-maximum-gap) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/KushagraTandon1/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
