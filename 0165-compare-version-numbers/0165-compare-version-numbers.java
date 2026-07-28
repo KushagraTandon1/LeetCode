@@ -1,7 +1,14 @@
 class Solution {
+
     public int getIntegerValueOfString(String versionNumber){
-        return Integer.parseInt(versionNumber);
+        int size = versionNumber.length();
+        int answer = 0;
+        for(int i = 0; i < size; i++){
+            answer = answer * 10 + (versionNumber.charAt(i) - '0');
+        }
+        return answer;
     }
+
     public int compareVersion(String version1, String version2) {
         String [] ver1 = version1.split("[.]");
         String [] ver2 = version2.split("[.]");
@@ -15,4 +22,5 @@ class Solution {
         }
         return 0;
     }
+
 }
