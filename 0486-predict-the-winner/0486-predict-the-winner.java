@@ -15,3 +15,6 @@ class Solution {
         return getWinner(0, size - 1, nums, dp) >= 0;
     }
 }
+
+/** One Of The Case is Even length, where either A will win OR B will win
+so this means anyone can win, so if by any case B will win so we can revert the case and Make A win, but we will go for the generic case */
