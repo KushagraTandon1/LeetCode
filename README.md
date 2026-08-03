@@ -14,6 +14,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | [1260-shift-2d-grid](https://github.com/KushagraTandon1/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/KushagraTandon1/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/KushagraTandon1/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1406-stone-game-iii](https://github.com/KushagraTandon1/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KushagraTandon1/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/KushagraTandon1/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/KushagraTandon1/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -60,6 +61,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | [0486-predict-the-winner](https://github.com/KushagraTandon1/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KushagraTandon1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/KushagraTandon1/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/KushagraTandon1/LeetCode/tree/master/1406-stone-game-iii) |
 | [3536-maximum-product-of-two-digits](https://github.com/KushagraTandon1/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KushagraTandon1/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/KushagraTandon1/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
@@ -132,6 +134,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | ------- |
 | [0486-predict-the-winner](https://github.com/KushagraTandon1/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KushagraTandon1/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/KushagraTandon1/LeetCode/tree/master/1406-stone-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/KushagraTandon1/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Bit Manipulation
 |  |
@@ -225,4 +228,5 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | ------- |
 | [0486-predict-the-winner](https://github.com/KushagraTandon1/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KushagraTandon1/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/KushagraTandon1/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
