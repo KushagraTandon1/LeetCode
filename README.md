@@ -20,6 +20,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | [2462-total-cost-to-hire-k-workers](https://github.com/KushagraTandon1/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KushagraTandon1/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/KushagraTandon1/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
+| [3731-find-missing-elements](https://github.com/KushagraTandon1/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KushagraTandon1/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -31,6 +32,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KushagraTandon1/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KushagraTandon1/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/KushagraTandon1/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/KushagraTandon1/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KushagraTandon1/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
@@ -102,6 +104,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/KushagraTandon1/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KushagraTandon1/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/KushagraTandon1/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
+| [3731-find-missing-elements](https://github.com/KushagraTandon1/LeetCode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
