@@ -77,6 +77,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | [0211-design-add-and-search-words-data-structure](https://github.com/KushagraTandon1/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/KushagraTandon1/LeetCode/tree/master/0399-evaluate-division) |
 | [0508-most-frequent-subtree-sum](https://github.com/KushagraTandon1/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
+| [0617-merge-two-binary-trees](https://github.com/KushagraTandon1/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/KushagraTandon1/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/KushagraTandon1/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/KushagraTandon1/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -87,6 +88,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | ------- |
 | [0399-evaluate-division](https://github.com/KushagraTandon1/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/KushagraTandon1/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [0617-merge-two-binary-trees](https://github.com/KushagraTandon1/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/KushagraTandon1/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/KushagraTandon1/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/KushagraTandon1/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -153,6 +155,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/KushagraTandon1/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/KushagraTandon1/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
+| [0617-merge-two-binary-trees](https://github.com/KushagraTandon1/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/KushagraTandon1/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/KushagraTandon1/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/KushagraTandon1/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -197,6 +200,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/KushagraTandon1/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/KushagraTandon1/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
+| [0617-merge-two-binary-trees](https://github.com/KushagraTandon1/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/KushagraTandon1/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/KushagraTandon1/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Heap (Priority Queue)
