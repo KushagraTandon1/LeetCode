@@ -16,6 +16,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | [1288-remove-covered-intervals](https://github.com/KushagraTandon1/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1406-stone-game-iii](https://github.com/KushagraTandon1/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KushagraTandon1/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KushagraTandon1/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/KushagraTandon1/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/KushagraTandon1/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KushagraTandon1/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -133,6 +134,7 @@ A curated collection of my LeetCode solutions covering Data Structures, Algorith
 | [0399-evaluate-division](https://github.com/KushagraTandon1/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/KushagraTandon1/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [1268-search-suggestions-system](https://github.com/KushagraTandon1/LeetCode/tree/master/1268-search-suggestions-system) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KushagraTandon1/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/KushagraTandon1/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KushagraTandon1/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Shortest Path
